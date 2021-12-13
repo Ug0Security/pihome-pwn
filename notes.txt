@@ -1,6 +1,8 @@
 pre auth sqli 
 
-/api/binarySet.php?zonename=123"
+/api/binarySet.php?zonename=123
+
+MD5 hash located in the user table
 
 post auth root RCE
 
