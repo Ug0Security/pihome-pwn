@@ -1,3 +1,6 @@
+https://www.pihome.eu/
+https://github.com/pihome-shc/pihome
+
 pre auth sqli 
 
 /api/binarySet.php?zonename=123
